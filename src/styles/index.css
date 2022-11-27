@@ -1,12 +1,22 @@
+.container{
+    margin: auto;
+    margin-top: 20px;
+    background: lightcoral;
+    width: 50%;
+    border: solid lightgray;
+    padding: 10px;    
+}
 
-/* 
+h1 {
+    color:black;
+    margin-left: 35%;
+    font-size: 40px;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+input{
+    width: 100%;
+}
 
-*/
+p {
+    font-size: 15px;
+}
